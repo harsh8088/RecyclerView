@@ -6,4 +6,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <integer-array name="progress_bar_colors_theme">
+        <item>@color/indigo</item>
+    </integer-array>
 </resources>
